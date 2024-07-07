@@ -1,4 +1,4 @@
-# breast_cancer_classification
+# breast_cancer_prediction
 Classification and prediction of breast cancer (benign / malignant) using a dataset from Kaggle and a basic deep neural network.
 # About the project
 Classification and prediction of breast cancer (benign / malignant) using a dataset from Kaggle.
